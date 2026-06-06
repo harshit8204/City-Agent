@@ -10,7 +10,7 @@
 
 | Chat Interface | Weather & News Response |
 |---|---|
-| ![Screenshot 1](Demo 1.jpg) | ![Screenshot 2](Demo 2.jpg) |
+| ![Screenshot 1](City%20Agent/Demo1.jpg) | ![Screenshot 2](City%20Agent/Demo2.jpg) |
 
 
 
